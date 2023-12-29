@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Yummiit</string>
+    <string name="yummiit">Yummiit</string>
+    <string name="welcome_back_glad_to_see_you_again">Welcome back! Glad to see you, Again!</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="or_login_with">or Login with</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="don_t_have_an_account">Don’t have an account?</string>
+    <string name="register_now">Register Now</string>
+    <string name="username">Username</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="hello_register_to_get_started">Hello! Register to get started</string>
+    <string name="register">Register</string>
+    <string name="login_now">Login Now</string>
+    <string name="password">Password</string>
+    <string name="scroll">Scroll View\n</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="order">Order</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="explore_fragment">Explore Fragment</string>
+    <string name="order_fragment">Order Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="select_tabs">Select Tabs</string>
+</resources>

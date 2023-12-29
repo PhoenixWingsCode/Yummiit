@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/adamina</item>
+        <item>@font/almendra_sc</item>
+        <item>@font/archivo_black</item>
+        <item>@font/arsenal</item>
+        <item>@font/averia_sans_libre</item>
+        <item>@font/baloo_tamma</item>
+        <item>@font/belleza</item>
+        <item>@font/bungee</item>
+        <item>@font/dm_serif_display</item>
+        <item>@font/lobster_two_bold</item>
+        <item>@font/merriweather_bold</item>
+    </array>
+</resources>

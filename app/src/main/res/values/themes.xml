@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Yummiit" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryLight</item>
+
+        <item name="materialButtonStyle">@style/Theme.Yummiit.Button</item>
+
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+    <style name="Theme.Yummiit" parent="Base.Theme.Yummiit" />
+
+    <style name="Theme.Yummiit.Button" parent="Widget.Material3.Button">
+        <item name="cornerRadius">15dp</item>
+    </style>
+
+    <style name="Theme.Yummiit.GoogleLoginButton" parent="Widget.Material3.Button.OutlinedButton.Icon">
+        <item name="cornerRadius">15dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="iconTint">@null</item>
+        <item name="iconSize">22dp</item>
+        <item name="iconPadding">8dp</item>
+        <item name="rippleColor">#11000000</item>
+    </style>
+
+    <!-- res/values/styles.xml -->
+    <style name="MyTabLayoutTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+</resources>
